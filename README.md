@@ -1,4 +1,4 @@
-Experimenting with UI components.
+# Experimenting with UI components with Rollup.
 
 ## Usage
 
